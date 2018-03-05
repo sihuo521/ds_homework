@@ -23,7 +23,7 @@ void Show(List plist)
 int main()
 {
 	Node head;
-	Initlist(&head);
+	Initlist(&head);  //初始化
 	int i;
 	for(i=0;i<10;i++)
 	{
